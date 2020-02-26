@@ -24,7 +24,7 @@ public class NewTest {
 	@BeforeMethod
 	public void beforemeThod() {
 		
-		System.out.println("before method need a class");
+		System.out.println("before method xc need a class");
 	}
 	
 	@BeforeTest
